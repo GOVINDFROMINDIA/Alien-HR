@@ -29,7 +29,7 @@ jobs:
         python -m pip install --upgrade pip
         python -m pip install flake8 pytest
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-        pip install scikit-learn base64 nltk fuzzywuzzy openai typing pandas reportlab smtplib numpy
+        pip install base64 nltk scikit-learn numpy openai fuzzywuzzy python-dateutil pdfplumber datetime smtplib csv PyMuPDF typing
     - name: Lint with flake8
       run: |
         # ... (your linting code)
