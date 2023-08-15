@@ -1,0 +1,26 @@
+qn,question,option1,option2,option3,option4,answer
+1,"A grazes 20 sheep for 6 weeks ,B grazes 30 sheep for 8 weeks in a field. How should they divide the rent for the field of Rs 60?",01:02,03:04,Rs 40:20,Rs 20:40,D
+2,"Three pipes a ,b and c are connected to a tank. Out of the three, a and b are inlet pipes and c is the outlet pipe. If opened separately, a fills the tank in 10 hours, b fills the tank in 12 hours and c empties the tank in 30hours. If all the three are opened simultaneously, how much time does it take to fill/empty the tank?",6 Hours 25 min,6 Hours 40 min,5 Hours 25 min,6 Hours 30 min,B
+3,"A car travels a certain distance taking 7 hours in forward journey. During the return journey, speed was increased by 12 kmph and it takes the times of 5 hours. What is the distance?",300 km,312 km,342 km,210 km,A
+4,"Three pipes a, b and c are connected to a tank. Out of the three, a and b are inlet pipes and c is the outlet pipe. If opened separately, a fills the tank in 10 hours, b fills the tank in 12 hours and c empties the tank in 30 hours. If all the three are opened simultaneously, how much time does it take to fill/empty the tank?",6 Hours 25 min,6 Hours 40 min,5 Hours 25 min,6 Hours 30 min,B
+5,"A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?",12 days,15 days,16 days,10 days,A
+6,"The ratio of the number of boys and girls in a school is 3:2 and the average age of boys is 18 years. If the average age of girls is 20 years, what is the average age of the school?",18.6 years,18.8 years,19 years,20 years,B
+7,"The average age of a husband, wife and their child 3 years ago was 27 years and that of wife and the child 5 years ago was 20 years. The present age of the husband is:",35 years,40 years,45 years,50 years,C
+8,The sum of the first n terms of an AP is given by S_n = 3n^2 + 2n. Find the first term a and the common difference d of the AP.,a = 1, d = 2, a = 2, d = 3,B
+9,"In a GP, the second term is 3 and the fifth term is 48. Find the common ratio r of the GP.",r = 2, r = 3, r = 4, r = 5,B
+10,The sum of the first n terms of an HP is given by S_n = (2n + 1) / (3n + 2). Find the first term a and the common difference d of the HP.,a = 1, d = 1, a = 2, d = 2,C
+11,"If a, b, and c are in AP, then which of the following is true?",2b = a + c, b^2 = ac, a^2 = bc, a + c = 2b,A
+12,"The 10th term of an HP is 1/18, and the sum of the first 10 terms is 20/63. Find the common difference d of the HP.",d = 1/18, d = 1/20, d = 1/21, d = 1/25,C
+13,A shopkeeper marks his goods 20% above the cost price but allows a discount of 10% on the marked price. Find the overall gain percentage.,5%,8%,10%,12%,C
+14,A man sold an article for Rs480 and incurred a loss of 20%. Find the cost price of the article.,Rs600,Rs550,Rs540,Rs600,A
+15,A trader buys an article for Rs800 and sells it at a loss of 12%. Find the selling price of the article.,Rs704,Rs820,Rs720,Rs888,A
+16,"A mobile phone was sold at a gain of 25%. If it was sold for Rs625, what was its cost price?",Rs500,Rs525,Rs550,Rs600,B
+17,A book was bought for Rs80 and sold at a loss of 15%. Find the selling price of the book.,Rs68,Rs85,Rs70,Rs75,A
+18,A shirt was sold for Rs240 at a loss of 20%. What was the cost price of the shirt?,Rs300,Rs320,Rs280,Rs360,C
+19,The simple interest on a certain sum of money at 8% per annum for 4 years is Rs320. Find the principal amount.,Rs800,Rs1000,Rs1200,Rs1600,B
+20,A sum of Rs5000 amounts to Rs6650 in 2 years at a certain rate of simple interest. Find the rate of interest.,12%,15%,20%,25%,C
+21,The compound interest on a certain sum of money at 10% per annum for 3 years is Rs331. Find the principal amount.,Rs900,Rs1000,Rs1100,Rs1200,B
+22,The compound interest on a sum of Rs1500 for 2 years is Rs144. Find the rate of interest.,6%,8%,10%,12%,B
+23,"The difference between the compound interest and the simple interest on a sum of Rs4000 for 2 years is Rs120. If the rate of interest is the same in both cases, find the rate of interest.",5%,6%,7%,8%,C
+24,"A sum of Rs8000 is invested in a scheme of compound interest at 10% per annum. If the interest is compounded annually, find the amount after 3 years.",Rs10000,Rs9261,Rs10800,Rs9000,B
+25,The compound interest on a certain sum of money at 12% per annum for 3 years is Rs2544. Find the principal amount.,Rs5000,Rs6000,Rs7000,Rs8000,A
