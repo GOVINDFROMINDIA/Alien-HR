@@ -3,7 +3,7 @@ from typing import Any
 import openai
 from sklearn.metrics.pairwise import cosine_similarity
 from fuzzywuzzy import fuzz
-openai.api_key = "abcdefghijklmnopqrstuvwxyz"
+openai.api_key = "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"
 
 def get_embedding(text, model="text-embedding-ada-002"):
    text = text.replace("\n", " ")
