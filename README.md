@@ -1,4 +1,5 @@
 # Alien-HR
+https://www.youtube.com/watch?v=YNukAtwy7I0
 Built an LLM based application for HR process optimization 
 
 ## HR ASSISTANCE SYSTEM
