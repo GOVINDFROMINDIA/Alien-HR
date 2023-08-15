@@ -1,0 +1,14 @@
+streamlit
+base64
+nltk
+scikit-learn
+numpy
+openai
+fuzzywuzzy
+python-dateutil
+pdfplumber
+datetime
+smtplib
+csv
+PyMuPDF
+typing
