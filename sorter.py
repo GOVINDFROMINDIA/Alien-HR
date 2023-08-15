@@ -84,12 +84,6 @@ def notify_interview(selected_candidates, interview_date, interview_time, interv
 
             # Send the email
             server.sendmail(sender_email, recipient, message)
-
-        # Send email to yourself as a confirmation
-        content = replace_placeholders(interview_date, interview_time, interview_location)
-        recipient = sender_email  # Your own email address
-        message = f"Subject: {subject}\n\n{content}"
-        server.sendmail(sender_email, recipient, message)
         
     except smtplib.SMTPAuthenticationError:
         st.error("Failed to authenticate. Please check your credentials and try again.")
